@@ -2,3 +2,4 @@ numpy==1.26.4
 openai==1.12.0
 opencv_python==4.9.0.80
 Requests==2.31.0
+aiogram==2.25.1
